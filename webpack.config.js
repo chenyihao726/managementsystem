@@ -1,4 +1,4 @@
-var webpack = require('webpack');
+let webpack = require('webpack');
 module.exports = {
 	//根目录
 	context: __dirname + "",
