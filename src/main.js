@@ -11,7 +11,7 @@ Vue.config.productionTip = false
 Vue.use(iView)
 
 new Vue({
-  el: '#app',
+  el: '#app', 
   router,
 	store,
   components: { App },
